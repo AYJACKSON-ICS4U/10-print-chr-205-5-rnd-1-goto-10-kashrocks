@@ -1,2 +1,4 @@
 # 10-print-chr-205-5-rnd-1-goto-10-kashrocks
-10-print-chr-205-5-rnd-1-goto-10-kashrocks created by GitHub Classroom
+####This is the read me file for my ten minute prject
+![my image](https://imgur.com/FQN49Yz.gif)
+
